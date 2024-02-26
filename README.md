@@ -1,0 +1,1 @@
+Function and test file conducting Simplex optimization on the RosenBrock test function in Matlab. Graphical output and absolute minimum function value is recorded and displayed after the test file is run. Expected global min: f(1,1) == 0.
